@@ -1,2 +1,2 @@
 # ASST
-This is place the code for automated social skills training
+This is to place the code for automated social skills training
